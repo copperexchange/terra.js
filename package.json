@@ -83,7 +83,7 @@
     "webpack-cli": "^4.3.0"
   },
   "dependencies": {
-    "@classic-terra/terra.proto": "^1.1.0",
+    "@classic-terra/terra.proto": "^2.0.0",
     "@terra-money/terra.proto": "^2.1.0",
     "axios": "^0.27.2",
     "bech32": "^2.0.0",
